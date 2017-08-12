@@ -9,6 +9,7 @@
 ### React-Native
 * [React Navigation](https://reactnavigation.org/) - library สำหรับการทำ Navigation สร้างโดย Facebook, Expo และ React Native Community ถูกวางให้มาแทนที่ NavigationExperimental
 * [React Native Extended Stylesheet](https://github.com/vitalets/react-native-extended-stylesheet) - Reimplement React Native Stylesheet ให้ใช้ความสามารถแบบ css-like ได้มากขึ้น เช่น global variable, percent width **`ใช้ร่วมกับ storybook ไม่ได้`**
+* [UI Component Library](https://github.com/wix/react-native-ui-lib) - UI Component ที่ช่วยให้การใส่ style ให้ component ง่ายขึ้น
 * [Lottie](https://airbnb.design/lottie/) - ทำให้เล่น Animation จาก After Effect ได้ (ของ AirBNB)
 * [React Native Map](https://github.com/airbnb/react-native-maps) - Map `ใช้ Google Style Map` (ของ AirBNB)
 * [React Native Mapbox GL](https://github.com/mapbox/react-native-mapbox-gl) - Map `ใช้ OSM Style Map` (สร้างโดย Mapbox แต่ประกาศว่าไม่เป็น Offlcial Support)
