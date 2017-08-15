@@ -14,6 +14,7 @@
 * [React Native Map](https://github.com/airbnb/react-native-maps) - Map `ใช้ Google Style Map` (ของ AirBNB)
 * [React Native Mapbox GL](https://github.com/mapbox/react-native-mapbox-gl) - Map `ใช้ OSM Style Map` (สร้างโดย Mapbox แต่ประกาศว่าไม่เป็น Offlcial Support)
 * [React Native Vector Icon](https://github.com/oblador/react-native-vector-icons)
+* [React Native Offline](https://github.com/rauliyohmc/react-native-offline/blob/master/src/withNetworkConnectivity.js) - HOC / Component จัดการเรื่อง internet connection status ใน React Native
 ### Javascript that support React-Native
 * [Redux](http://redux.js.org/docs/introduction/) - `Need react-redux`
 * [Storybook](https://storybook.js.org/) - รวบรวม UI ของ Component ทั้งหมดในแอพ มาสร้างเป็น story เพื่อเรียกดูหน้าตาใน state ต่าง ๆ
