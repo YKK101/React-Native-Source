@@ -23,6 +23,7 @@
 ### UI & Theme
 * [Shoutem](http://shoutem.github.io/)
 * [NativeBase](https://nativebase.io/)
+* [React Native Element](https://github.com/react-native-training/react-native-elements)
 ### Boilerplate
 * [Ignite](https://infinite.red/ignite)
 * [Pepperoni](http://getpepperoni.com/)
