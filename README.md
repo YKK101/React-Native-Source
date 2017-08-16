@@ -52,3 +52,4 @@
 * [Recompose](https://github.com/acdlite/recompose) - Lodash for React !!!
 * [Immutable.js](https://facebook.github.io/immutable-js/) - สร้างความมั่นใจว่า object จะไม่โดน mutate ??
 * [Redux Persist](https://github.com/rt2zz/redux-persist) - cash store ไว้ใน local storage & rehydrate + fetch in background => for lost network
+* [Redux Offline](https://github.com/jevakallio/redux-offline) - ต่อยอดจาก redux-persist
