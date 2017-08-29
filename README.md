@@ -55,3 +55,6 @@
 * [Redux Offline](https://github.com/jevakallio/redux-offline) - ต่อยอดจาก redux-persist
 * [Styled Component](https://github.com/styled-components/styled-components) - Use css style in react & also react native!!!!
 * [Offline First](https://github.com/pazguille/offline-first) - รวม offline first architecture source
+* [React-Native-Config](https://github.com/luggit/react-native-config) - set .env for react native
+* [React-Native-Platform-StyleSheet](https://github.com/knowbody/react-native-platform-stylesheet) - set stylesheet แบ่งตาม os (concept ประมาณ platform.select แต่โค๊ดอ่านง่ายขึ้น)
+* [React-With-Style](https://github.com/airbnb/react-with-styles) - lib style ของ airbnb ... ยังงงๆ อยู่ว่ามันทำอะไร
