@@ -58,3 +58,4 @@
 * [React-Native-Config](https://github.com/luggit/react-native-config) - set .env for react native
 * [React-Native-Platform-StyleSheet](https://github.com/knowbody/react-native-platform-stylesheet) - set stylesheet แบ่งตาม os (concept ประมาณ platform.select แต่โค๊ดอ่านง่ายขึ้น)
 * [React-With-Style](https://github.com/airbnb/react-with-styles) - lib style ของ airbnb ... ยังงงๆ อยู่ว่ามันทำอะไร
+* [React-Native-Gesture-Handler](https://github.com/kmagiera/react-native-gesture-handler)
